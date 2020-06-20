@@ -1,14 +1,14 @@
 baseURL = "https://danielgospodinow.com/"
 languageCode = "en-us"
-title = "Daniel Gospodinow"
+title = "D.G."
 theme = "minimal"
 
 [params]
     author = "Daniel Gospodinow"
     profilePic = "https://i.imgur.com/2qfesGo.jpg"
-    description = ""
+    description = "A man with a [vision](../me)."
     githubUsername = "danielgospodinow"
-    accent = "#407ba8"
+    accent = "#934A5F"
     showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -24,7 +24,7 @@ theme = "minimal"
 [[menu.main]]
     url = "https://medium.com/@danielgospodinow"
     name = "Blog"
-    weight = 4
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.

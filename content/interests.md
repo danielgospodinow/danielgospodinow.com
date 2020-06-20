@@ -1,8 +1,10 @@
 +++
 type = "static"
 page = "static/single.html"
-title = "Projects"
+title = "Interests"
 description = ""
 menu = "main"
-weight = "4"
+weight = "3"
 +++
+
+
