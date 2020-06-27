@@ -13,6 +13,8 @@ function commitAndPush {
 echo "Commiting and pushing changes in the source project"
 commitAndPush
 
+hugo
+
 cd ./public/
 echo "Commiting and pushing changes in the content project"
 commitAndPush
