@@ -17,7 +17,7 @@ Hey there! 👋
 
 👨‍🎓 Also, I'm a final-year Bachelor's in Computer Science at [Sofia University](https://www.uni-sofia.bg/).
 
-⏪ Previously, I've been a teaching assistant at two programming-related subjects at Sofia University. Also, I've been an employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/).
+⏪ Previously, I've been a teaching assistant at two programming-related courses at Sofia University. Also, I've been an employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/).
 
 🕒 In my free time, I love
 - 📖 learning new stuff.
