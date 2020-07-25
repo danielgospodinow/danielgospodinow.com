@@ -17,7 +17,7 @@ Hey there! 👋
 
 👨‍🎓 Also, I'm a final-year Bachelor's in Computer Science at [Sofia University](https://www.uni-sofia.bg/).
 
-⏪ Previously, I've been a teaching assistant at two programming-related courses at Sofia University. Also, I've been an employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/).
+⏪ Former teaching assistant at Sofia University, former employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/), former high school IT competitor.
 
 🕒 In my free time, I love
 - 📖 learning new stuff.
@@ -30,7 +30,7 @@ Hey there! 👋
 ⭐ I wish to
 - 🤵 become an outstanding developer, investor, entrepreneur, teacher, and an overall successful man. A man who people admire and love. A man who motivates others around him to also follow their goals and dreams.
 - 👧 have a healthy, smart, and ambitious daughter one day; 👩 and to again have a loyal, fun, supportive, and loving partner.
-- 🏢 experience working abroad in a big company like [Google](https://developers.google.com/), [Microsoft](https://www.microsoft.com/), [Apple](https://www.apple.com/), [Netflix](https://www.netflix.com/), etc.
+- 🏢 experience working abroad in a big company like [Google](https://developers.google.com/), [Microsoft](https://www.microsoft.com/), [Apple](https://www.apple.com/), [Netflix](https://www.netflix.com/), [Tesla](https://www.tesla.com/), etc.
 - 💲 have my own commercial software products and courses.
 - 👞 be a stylish man.
 - 🏠 have a [wonderful modern home](https://i.pinimg.com/originals/29/8d/f1/298df1cac168231b7572f2b4e75a269c.jpg).
