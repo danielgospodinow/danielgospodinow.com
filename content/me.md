@@ -21,7 +21,7 @@ Hey there! 👋
 
 🕒 In my free time, I love
 - 📖 learning new stuff.
-- 💻 writing code, as seen from the [Projects](../projects) section and from my [GitHub](https://github.com/danielgospodinow) profile.
+- 💻 writing code, as seen from the [Interests](../interests) section and from my [GitHub](https://github.com/danielgospodinow) profile.
 - ✍️ writing tech articles for my [blog](https://medium.com/@danielgospodinow).
 - 👨‍👩‍👧‍👦 hanging out with friends.
 - 🏃‍♂️ training.
