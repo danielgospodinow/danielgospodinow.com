@@ -19,18 +19,19 @@ Hey there! 👋
 
 ⏪ Former teaching assistant at Sofia University, former employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/), former high school IT competitor.
 
-🕒 In my free time, I love
+🕒 In my free time, I enjoy
 - 📖 learning new stuff.
 - 💻 writing code, as seen from the [Interests](../interests) section and from my [GitHub](https://github.com/danielgospodinow) profile.
 - ✍️ writing tech articles for my [blog](https://medium.com/@danielgospodinow).
+- 😆 creating funny content.
 - 👨‍👩‍👧‍👦 hanging out with friends.
 - 🏃‍♂️ training.
-- 🎮 playing video games on my PC or Playstation.
+- 🎮 playing video games.
 
 ⭐ I wish to
 - 🤵 become an outstanding developer, investor, entrepreneur, teacher, and an overall successful man. A man who people admire and love. A man who motivates others around him to also follow their goals and dreams.
 - 👧 have a healthy, smart, and ambitious daughter one day; 👩 and to again have a loyal, fun, supportive, and loving partner.
-- 🏢 experience working abroad in a big company like [Google](https://developers.google.com/), [Microsoft](https://www.microsoft.com/), [Apple](https://www.apple.com/), [Netflix](https://www.netflix.com/), [Tesla](https://www.tesla.com/), etc.
+- 🏢 experience working abroad in a big company like [Google](https://developers.google.com/), [Microsoft](https://www.microsoft.com/), [Apple](https://www.apple.com/), [Netflix](https://www.netflix.com/), [Tesla](https://www.tesla.com/), [IBM](https://www.ibm.com/), etc.
 - 💲 have my own commercial software products and courses.
 - 👞 be a stylish man.
 - 🏠 have a [wonderful modern home](https://i.pinimg.com/originals/29/8d/f1/298df1cac168231b7572f2b4e75a269c.jpg).
