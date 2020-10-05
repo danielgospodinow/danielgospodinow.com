@@ -18,6 +18,7 @@ weight = "3"
 - like AI
 - like computer graphics
 - love building enterprise systems
+- started my own Organization [Qbaware](https://github.com/qbaware) in GitHub where I plan to develop my commercial projects in private repos
 
 !!! THE Projects section is deleted, mention projects here, one or two projects for every section of IT that I like - IoT, Game Dev, etc.
 
@@ -34,6 +35,16 @@ Since I love automotive software, in 2018 I started my career as an intern softw
 As mentioned, I also like computer graphics and IoT, so unsurprisingly enough, 
 
 Currently, I work for [SAP](https://www.sap.com/), a German world-known multinational software corporation, a market leader in end-to-end enterprise application software, and a top cloud company with 200 million users worldwide.
+
+#### Qbaware
+
+On the 4th of September 2020, I decided to make the first move in creating my own commecrial brand - *Qbaware*.
+
+The meaning behind the name "Qbaware" is very simple and symbolic. The essential part is the word "Qba" which is a Bulgarian word used mostly in the region around my hometown that expresses an emotion of excitement, fascination, amusement. It's just like the word "wow". Furthermore, the remaining part "-ware" is derived from the words *Software* and *Hardware* because I aim to deliver primarely IoT projects. So the meaning of "Qbaware" simply breaks down to "Fascinating software and hardware".
+
+The brand's slogan "We inspire the future, and the future inspires us" is derived from a slogan of my hometown Dimitrovgrad which was constructed during the Socialism period from a big group of young people who used to say "We create the town, the town creates us".
+
+The first project which I aim to deliver under my commercial brand is *Kola*. This is a modern and outstanding smart car solution.
 
 &nbsp;
 
@@ -108,7 +119,7 @@ And here's one winter sport that I really like - skiing. I've gone skiing once i
 
 I enjoy interacting with animals regardless of their kind. I especially love cats and dogs.
 
-A cat named Sofi, born in Sofia, Bulgaria and adopted from there, is our big, fluffy, and loving family member.
+A cat named Sofi, born in Sofia, Bulgaria and adopted from there, is our chubby, fluffy, and loving family member.
 
 ![Sofi](https://i.imgur.com/ltDbeII.jpg)
 
@@ -117,6 +128,8 @@ Unlike some cats, she has never hissed or attacked a person. If you annoy her, s
 She also doesn't know exactly how to meow, so she just makes a cute toy-squeezing noise.
 
 I often terrorize her by doing stupid and funny things with her. But she doesn't mind, she loves it.
+
+Fun fact: If a cat has three or more colors, it's definitely a female cat. Shoutout to Anny, one of my former colleagues at Bosch.
 
 &nbsp;
 
@@ -139,3 +152,5 @@ I'm a person who's very concerned about his money.
 I try to save as much as possible without stopping myself too much from doing or buying things that I want.
 
 I see topics such as investing, money management, finances, and economy as very interesting ones. Sometimes, in my free time, I educate myself in those topics through different kinds of online material.
+
+I like investing in stocks and that's mostly what I focus on, but recently a friend of mine sparked in me a serious interest in Bitcoin and the whole crypto world.

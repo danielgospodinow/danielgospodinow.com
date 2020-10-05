@@ -15,7 +15,7 @@ Hey there! 👋
 
 🧑‍💻 Currently, I work as a full-time software engineer at [SAP](https://www.sap.com/) in Sofia, Bulgaria. 
 
-👨‍🎓 Also, I'm a final-year Bachelor's in Computer Science at [Sofia University](https://www.uni-sofia.bg/).
+👨‍🎓 Also, after my recent graduation as a Bachelor's in Computer Science, I'm now pursuing my Master's degree in Technology Entrepreneurship at [Sofia University](https://www.uni-sofia.bg/).
 
 ⏪ Former teaching assistant at Sofia University, former employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/), former high school IT competitor.
 
@@ -33,12 +33,15 @@ Hey there! 👋
 - 👧 have a healthy, smart, and ambitious daughter one day; 👩 and to again have a loyal, fun, supportive, and loving partner.
 - 🏢 experience working abroad in a big company like [Google](https://developers.google.com/), [Microsoft](https://www.microsoft.com/), [Apple](https://www.apple.com/), [Netflix](https://www.netflix.com/), [Tesla](https://www.tesla.com/), [IBM](https://www.ibm.com/), etc.
 - 💲 have my own commercial software products and courses.
+- 📈 expand my brand [Qbaware](https://qbaware.github.io/).
 - 👞 be a stylish man.
 - 🏠 have a [wonderful modern home](https://i.pinimg.com/originals/29/8d/f1/298df1cac168231b7572f2b4e75a269c.jpg).
 - 🚘 drive a [luxury saloon car](https://www.mercedes-benz.com/en/mbsocialcar/mbsocialcar-s-class/_jcr_content/root/slider_4/sliderchilditems/slideritem_3/image/MQ7-0-image-20190114134133/04-mercedes-benz-vehicles-mbsocialcar-v-222-s-class-3400x1440.jpeg).
+- 🥂 visit countless [exotic restaurants](https://www.instagram.com/p/CEtfnKTj2jB/) with my partner.
+- 🌎 travel as much as possible around the whole globe.
 
 🔮 In the future, I plan to
-- 💼 continue my university education with a Master's degree by diving into a new field - IT entrepreneurship.
+- 💼 finish my Master's degree with a product for a potential startup.
 - 👬 meet countless new smart and ambitious people.
 - 🌎 try living abroad for a while. Somewhere in Western Europe 🇨🇭 or in the USA 🇺🇸. I want to taste foreign cultures.
 - 👨‍🏫 become a teacher, a lecturer.
