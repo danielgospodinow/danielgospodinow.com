@@ -38,7 +38,7 @@ Currently, I work for [SAP](https://www.sap.com/), a German world-known multinat
 
 #### Qbaware
 
-On the 4th of September 2020, I decided to make the first move in creating my own commecrial brand - *Qbaware*.
+On the 4th of September 2020, I decided to make the first move in creating my own commecrial brand - [Qbaware](https://github.com/qbaware).
 
 The meaning behind the name "Qbaware" is very simple and symbolic. The essential part is the word "Qba" which is a Bulgarian word used mostly in the region around my hometown that expresses an emotion of excitement, fascination, amusement. It's just like the word "wow". Furthermore, the remaining part "-ware" is derived from the words *Software* and *Hardware* because I aim to deliver primarely IoT projects. So the meaning of "Qbaware" simply breaks down to "Fascinating software and hardware".
 
@@ -90,6 +90,7 @@ I play a lot of games both on my PC and on my PlayStation.
 
 Some of my favourite games are
 - [World of Warcraft](https://www.ign.com/games/world-of-warcraft) ❤️
+- [Diablo III] (https://www.ign.com/games/diablo)
 - [Paladins](https://www.ign.com/articles/2018/05/16/paladins-champions-of-the-realm-review)
 - [Counter-Strike](https://www.ign.com/games/counter-strike-global-offensive)
 - [Grand Theft Auto](https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review)
