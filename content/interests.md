@@ -18,7 +18,7 @@ weight = "3"
 - like AI
 - like computer graphics
 - love building enterprise systems
-- started my own Organization [Qbaware](https://github.com/qbaware) in GitHub where I plan to develop my commercial projects in private repos
+- started my own Organization [Qbaware](https://github.com/qbaware) in GitHub where I plan to develop my commercial projects
 
 !!! THE Projects section is deleted, mention projects here, one or two projects for every section of IT that I like - IoT, Game Dev, etc.
 
@@ -90,7 +90,7 @@ I play a lot of games both on my PC and on my PlayStation.
 
 Some of my favourite games are
 - [World of Warcraft](https://www.ign.com/games/world-of-warcraft) ❤️
-- [Diablo III] (https://www.ign.com/games/diablo)
+- [Diablo III](https://www.ign.com/games/diablo)
 - [Paladins](https://www.ign.com/articles/2018/05/16/paladins-champions-of-the-realm-review)
 - [Counter-Strike](https://www.ign.com/games/counter-strike-global-offensive)
 - [Grand Theft Auto](https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review)
