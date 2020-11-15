@@ -116,13 +116,13 @@ And here's one winter sport that I really like - skiing. I've gone skiing once i
 
 &nbsp;
 
-## Animals 🐈
+## Animals 🐾
 
 I enjoy interacting with animals regardless of their kind. I especially love cats and dogs.
 
-A cat named Sofi, born in Sofia, Bulgaria and adopted from there, is our chubby, fluffy, and loving family member.
-
 ![Sofi](https://i.imgur.com/ltDbeII.jpg)
+
+A cat named Sofi, born in Sofia, Bulgaria and adopted from there, is our chubby, fluffy, and loving family member since October 2016.
 
 Unlike some cats, she has never hissed or attacked a person. If you annoy her, she'll just gently move away from you. Or if she doesn't recognize you, she'll just run away and hide.
 
@@ -131,6 +131,12 @@ She also doesn't know exactly how to meow, so she just makes a cute toy-squeezin
 I often terrorize her by doing stupid and funny things with her. But she doesn't mind, she loves it.
 
 Fun fact: If a cat has three or more colors, it's definitely a female cat. Shoutout to Anny, one of my former colleagues at Bosch.
+
+![Kari](https://i.imgur.com/9xqiRq6.jpg)
+
+From October 2020, our family expanded with a new member - Karina.
+
+She's a cute little Pomeranian, however she bites like a piranha fish - a lot!
 
 &nbsp;
 

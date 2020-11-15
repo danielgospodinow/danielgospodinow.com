@@ -44,5 +44,6 @@ Hey there! 👋
 - 💼 finish my Master's degree with a product for a potential startup.
 - 👬 meet countless new smart and ambitious people.
 - 🌎 try living abroad for a while. Somewhere in Western Europe 🇨🇭 or in the USA 🇺🇸. I want to taste foreign cultures.
+- 🎬 try starting my own gaming and programming Youtube channels
 - 👨‍🏫 become a teacher, a lecturer.
 - ✅ turn my wishes and dreams into goals and then achieve them.
