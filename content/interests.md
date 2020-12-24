@@ -52,7 +52,7 @@ The first project which I aim to deliver under my commercial brand is *Kola*. Th
 
 #### High School
 
-I attended a high school in my hometown called "Ivan Vazov". There, the disciplines I loved were Programming, Physics, and Maths because I imagined how all of them can be used to build a video game. Yes, I was really into game development back then. 
+I attended a high school in my hometown called Ivan Vazov. There, the disciplines I loved were Programming, Physics, and Maths because I imagined how all of them can be used to build a video game. Yes, I was really into game development back then. 
 
 During my high school education, I've attended a lot of IT academies, like Telerik and SoftUni, and IT competitions, like HSSIMI - High School Student Institute of Mathematics and Informatics and the National IT Olympiad, and I had excellent results on every single one of them. This I greatly owe to my beloved Informatics teacher - Mrs Doneva.
 
@@ -68,7 +68,7 @@ Futhermore, Studentski grad, the place where mostly all students in Sofia live, 
 
 After my Bachalor's, I went for a Master's degree in Entrepreneurship. I think that some management, marketing, finance, and entrepreneurship skills can help me a lot more in life than any other technical skills from a technical degree.
 
-In the future, I'd love to go for another Master's degree or even a PhD in a foreign university. Currently, I'm considering some options like Sweden and Switzerland.
+In the future, I'd love to go for another Master's degree or even a PhD in a foreign university. Currently, I'm considering some options like Sweden 🇸🇪, Switzerland 🇨🇭, and even the USA 🇺🇸.
 
 #### Teaching
 
