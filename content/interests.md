@@ -48,17 +48,13 @@ The first project which I aim to deliver under my commercial brand is *Kola*. Th
 
 &nbsp;
 
-## Education 🎓 (Under construction)
+## Education 🎓
 
 #### High School
 
 I attended a high school in my hometown called "Ivan Vazov". There, the disciplines I loved were Programming, Physics, and Maths because I imagined how all of them can be used to build a video game. Yes, I was really into game development back then. 
 
-During my high school education, I've attended a lot of IT academies and IT competitions and I had excellent results on every single one of them. This I greatly owe to my unique Informatics teacher - Mrs Doneva. 
-
-My experience with IT academies consists of the attendence of multiple courses in two academies - Telerik Academy and SoftUni. 
-
-Whereas my experience with IT competitions is NOIT, UchIMI, ...
+During my high school education, I've attended a lot of IT academies, like Telerik and SoftUni, and IT competitions, like HSSIMI - High School Student Institute of Mathematics and Informatics and the National IT Olympiad, and I had excellent results on every single one of them. This I greatly owe to my beloved Informatics teacher - Mrs Doneva.
 
 #### University
 
@@ -68,9 +64,11 @@ Before Sofia University, I really considered studying abroad. I was even accepte
 
 The Faculty of Mathematics and Informatics gave me more than I could have ever expected. Countless new opportunities, countless new skills, countless new memories, and countless new friends. I've went through a lot of pain together with my colleagues, we're a big team and a big family.
 
-Futhermore, Studentski grad, the place where mostly all students in Sofia live, and Sofia itself gave me so many friendships, so many great memories.
+Futhermore, Studentski grad, the place where mostly all students in Sofia live, and Sofia itself, gave me so many friendships, so many great memories.
 
-After my Bachalor's, I plan to go for a Master's degree in Entrepreneurship. I think that some management, marketing, finance, and entrepreneurship skills can help me a lot more in life than any other technical skills from a technical degree.
+After my Bachalor's, I went for a Master's degree in Entrepreneurship. I think that some management, marketing, finance, and entrepreneurship skills can help me a lot more in life than any other technical skills from a technical degree.
+
+In the future, I'd love to go for another Master's degree or even a PhD in a foreign university. Currently, I'm considering some options like Sweden and Switzerland.
 
 #### Teaching
 
@@ -78,7 +76,7 @@ During my fourth and last year at Sofia University, I really wanted to see what'
 
 For the future, I've been considering some teaching opportunities in academies like Telerik or SoftUni and also in online learning platforms like Udemy, Coursera, etc.
 
-Currently, I publish tech articles at my blog on Medium. I've also considered starting my own YouTube channel for tech tutorials.
+Currently, I publish tech articles at my blog on Medium. I've also started my own [YouTube channel](https://www.youtube.com/channel/UC9snRirfnj3YBwbIu8UgqzQ) for tech tutorials.
 
 &nbsp;
 
@@ -95,6 +93,8 @@ Some of my favourite games are
 - [Counter-Strike](https://www.ign.com/games/counter-strike-global-offensive)
 - [Grand Theft Auto](https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review)
 - [Dragon Age: Inquisition](https://www.ign.com/articles/2014/11/11/dragon-age-inquisition-review)
+
+I've also started my own [Youtube channel](https://www.youtube.com/channel/UCMgxTn8jHffJ9zjqykbQIiw) for entertaining gaming videos. I'm planning to buy myself a VR set and to play and record VR games.
 
 &nbsp;
 
@@ -130,19 +130,21 @@ She also doesn't know exactly how to meow, so she just makes a cute toy-squeezin
 
 I often terrorize her by doing stupid and funny things with her. But she doesn't mind, she loves it.
 
-Fun fact: If a cat has three or more colors, it's definitely a female cat. Shoutout to Anny, one of my former colleagues at Bosch.
+Fun fact: If a cat has three or more colors, it's definitely female.
 
-![Kari](https://i.imgur.com/9xqiRq6.jpg)
+![Kari](https://i.imgur.com/IbLeGkh.jpg)
 
 From October 2020, our family expanded with a new member - Karina.
 
-She's a cute little Pomeranian, however she bites like a piranha fish - a lot!
+She's a cute little Pomeranian, however she bites like a piranha fish!
 
 &nbsp;
 
 ## Men's Fashion 👞
 
 I'm also very interested in men's fashion.
+
+![Daniel](https://i.imgur.com/Jgpln5d.jpg)
 
 >“Style is a way to say who you are without having to speak.” —Rachel Zoe
 
