@@ -18,7 +18,6 @@ weight = "3"
 - like AI
 - like computer graphics
 - love building enterprise systems
-- started my own Organization [Qbaware](https://github.com/qbaware) in GitHub where I plan to develop my commercial projects
 
 !!! THE Projects section is deleted, mention projects here, one or two projects for every section of IT that I like - IoT, Game Dev, etc.
 
@@ -34,11 +33,11 @@ Since I love automotive software, in 2018 I started my career as an intern softw
 
 As mentioned, I also like computer graphics and IoT, so unsurprisingly enough, 
 
-Currently, I work for [SAP](https://www.sap.com/), a German world-known multinational software corporation, a market leader in end-to-end enterprise application software, and a top cloud company with 200 million users worldwide.
+Currently, I work for [SAP](https://www.sap.com/), a world-known German multinational software corporation, a market leader in end-to-end enterprise application software, and a top cloud company with 200 million users worldwide.
 
 #### Qbaware
 
-On the 4th of September 2020, I decided to make the first move in creating my own commecrial brand - [Qbaware](https://github.com/qbaware).
+On the 4th of September 2020, I decided to make the first move in creating my own commecrial brand - [Qbaware](https://github.com/qbaware). There, I plan to develop both commercial and open-source projects.
 
 The meaning behind the name "Qbaware" is very simple and symbolic. The essential part is the word "Qba" which is a Bulgarian word used mostly in the region around my hometown that expresses an emotion of excitement, fascination, amusement. It's just like the word "wow". Furthermore, the remaining part "-ware" is derived from the words *Software* and *Hardware* because I aim to deliver primarely IoT projects. So the meaning of "Qbaware" simply breaks down to "Fascinating software and hardware".
 
