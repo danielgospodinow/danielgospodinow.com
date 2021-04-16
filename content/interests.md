@@ -9,31 +9,27 @@ weight = "3"
 
 &nbsp;
 
-## Coding 💻 (Under construction)
+## Coding 💻 (Under Construction)
 
-- love open source
-- love game dev
-- love electronics and IoT 
-- love automotive tech
-- like AI
-- like computer graphics
-- love building enterprise systems
+#### How I Started (TODO)
 
-!!! THE Projects section is deleted, mention projects here, one or two projects for every section of IT that I like - IoT, Game Dev, etc.
+I've been programming for a while now. I started programming in my early high school years. My first programming love sparks were born when I started writing World of Warcraft macros at the age of 15. After a couple of years, I found out to be simple Lua scripts. I was quite fascinated by this fact because that's when I realized that those macros were my first steps in the programming world.
 
-#### How I Started
+#### What I Love (TODO)
 
-I've been programming for a while now, I started programming in my early high school years. My first programming love spark was when I started writing World of Warcraft macros at around 15 years old which later I found out to be simple Lua scripts.
+I love open-source software, game development, electronics and IoT, automotive software/firmware/hardware, AI, computer graphics, software system architecture, and many more topics. To be honest, I find quite a lot of topics interesting.
 
-#### What I Love
+Some projects that I'm proud of are ...
 
 #### Career
 
-Since I love automotive software, in 2018 I started my career as an intern software engineer at Visteon...
+Since I love automotive software, in 2018 I started my career as an intern software engineer at [Visteon](https://www.visteon.com/) but it ended up shortly after.
 
-As mentioned, I also like computer graphics and IoT, so unsurprisingly enough, 
+As mentioned, I also like computer graphics and IoT, so unsurprisingly enough, I also went for an internship at [Chaos Group](https://www.chaosgroup.com/). A world-famous company that provides state-of-the-art rendering solutions for architectural, VFX, film, media and entertainment, automotive design and other industries. I also had a short stay there.
 
-Currently, I work for [SAP](https://www.sap.com/), a world-known German multinational software corporation, a market leader in end-to-end enterprise application software, and a top cloud company with 200 million users worldwide.
+After a couple of months after my departure from Chaos Group, I successfully landed a position as a junior software engineer at [Bosch](https://bosch.io/). At this workplace, I've learned a lot, I really enjoyed working on the multiple projects that I took part in, and I loved my colleagues. I felt that Bosch gave me an environment in which I experienced a very rapid career progress. I felt that I'm important and this really motivated me to push my limits to deliver outstanding results in all fields that I took part in. Also, I managed to quickly establish an amazing visibility in the whole office due to my multiple attendances of company activities - public meetings, sample company projects, and more. I had an absolutely marvellous experience as an employee there.
+
+As of now, I work for [SAP](https://www.sap.com/), a world-known German multinational software corporation, a market leader in end-to-end enterprise application software, and a top cloud company with 200 million users worldwide. I'm part of a team that's working on a complex product which is a cloud-native, open-source project crucial for SAP and for the whole open-source community. The technology stack includes Go, GraphQL, Docker, Kubernetes, Istio, Kiali, Prometheus, Grafana, PostgreSQL, and many morе modern and open-source tools and technologies. I absolutely love my team - they're all young, motivated, and quite helpful. I've only dreamed for such a wonderful workplace.
 
 #### Qbaware
 
