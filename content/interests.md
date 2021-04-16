@@ -93,7 +93,9 @@ My favourite jogging place is park Maritsa in Dimitrovgrad - my hometown. It's a
 
 I adore swimming. For me, it's the ultimate stress relief activity. In the past, I've practiced swimming a couple of times every week. Unfortunately, as of now, I just go swimming when I have the time and opportunity to do so.
 
-And here's one winter sport that I really like - snowboarding. I love the people I gather with for the winter sports, it's always ultra fun.
+And here's one winter sport that I absolutely love - snowboarding. Furthermore, I love the people with whom I gather with for those winter sports, it's always ultra fun with them.
+
+![Snowboarding](https://i.imgur.com/gNa3Wc8.jpg)
 
 &nbsp;
 
