@@ -9,7 +9,7 @@ weight = "3"
 
 &nbsp;
 
-## Programming 💻 (Under construction)
+## Coding 💻 (Under construction)
 
 - love open source
 - love game dev
@@ -79,24 +79,6 @@ Currently, I publish tech articles at my blog on Medium. I've also started my ow
 
 &nbsp;
 
-## Gaming 🎮
-
-I'm very passionate about gaming. I love every second I spend in gaming, but unfortunatelly I'm slowly starting to avoind doing so because there are more important things to do in the current phase of my life.
-
-I play a lot of games both on my PC and on my PlayStation.
-
-Some of my favourite games are
-- [World of Warcraft](https://www.ign.com/games/world-of-warcraft) ❤️
-- [Diablo III](https://www.ign.com/games/diablo)
-- [Paladins](https://www.ign.com/articles/2018/05/16/paladins-champions-of-the-realm-review)
-- [Counter-Strike](https://www.ign.com/games/counter-strike-global-offensive)
-- [Grand Theft Auto](https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review)
-- [Dragon Age: Inquisition](https://www.ign.com/articles/2014/11/11/dragon-age-inquisition-review)
-
-I've also started my own [Youtube channel](https://www.youtube.com/channel/UCMgxTn8jHffJ9zjqykbQIiw) for entertaining gaming videos. I'm planning to buy myself a VR set and to play and record VR games.
-
-&nbsp;
-
 ## Training and Sports 🏊
 
 #### On a Daily Basis
@@ -111,7 +93,7 @@ My favourite jogging place is park Maritsa in Dimitrovgrad - my hometown. It's a
 
 I adore swimming. For me, it's the ultimate stress relief activity. In the past, I've practiced swimming a couple of times every week. Unfortunately, as of now, I just go swimming when I have the time and opportunity to do so.
 
-And here's one winter sport that I really like - skiing. I've gone skiing once in my life but I really enjoyed it.
+And here's one winter sport that I really like - snowboarding. I love the people I gather with for the winter sports, it's always ultra fun.
 
 &nbsp;
 
@@ -150,6 +132,24 @@ I'm also very interested in men's fashion.
 Spring and Autumn are the seasons for some of my favourite outfits.
 
 I've created myself an Instagram page called [casualsformen](https://www.instagram.com/casualsformen) in which I gather, store and share all my favourite outfits.
+
+&nbsp;
+
+## Gaming 🎮
+
+I'm very passionate about gaming. I love every second I spend in gaming, but unfortunatelly I'm slowly starting to avoind doing so because there are more important things to do in the current phase of my life.
+
+I play a lot of games both on my PC and on my PlayStation.
+
+Some of my favourite games are
+- [World of Warcraft](https://www.ign.com/games/world-of-warcraft) ❤️
+- [Diablo III](https://www.ign.com/games/diablo)
+- [Paladins](https://www.ign.com/articles/2018/05/16/paladins-champions-of-the-realm-review)
+- [Counter-Strike](https://www.ign.com/games/counter-strike-global-offensive)
+- [Grand Theft Auto](https://www.ign.com/articles/2013/09/16/grand-theft-auto-v-review)
+- [Dragon Age: Inquisition](https://www.ign.com/articles/2014/11/11/dragon-age-inquisition-review)
+
+I've also started my own [Youtube channel](https://www.youtube.com/channel/UCMgxTn8jHffJ9zjqykbQIiw) for entertaining gaming videos. I'm planning to buy myself a VR set and to play and record VR games.
 
 &nbsp;
 
