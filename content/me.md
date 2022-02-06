@@ -13,13 +13,14 @@ Hey there! 👋
 
 🏃 I'm Daniel Gospodinow, a twentyish male born in Dimitrovgrad, Bulgaria 🇧🇬 who's on his journey to get the best from life by employing his full potential of social and technical skills.
 
-🧑‍💻 Currently, I work as a full-time software engineer at [SAP](https://www.sap.com/) in Sofia, Bulgaria. 
+🧑‍💻 Currently, I work as a full-time software engineer at [SAP](https://www.sap.com/) in Sofia, Bulgaria.
 
 👨‍🎓 Also, after my recent graduation as a Bachelor's in Computer Science, I'm now pursuing my Master's degree in Technology Entrepreneurship at [Sofia University](https://www.uni-sofia.bg/).
 
 ⏪ Former teaching assistant at Sofia University, former employee at [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/), former high school IT competitor.
 
 🕒 In my free time, I enjoy
+
 - 📖 learning new stuff.
 - 💻 writing code, as seen from the [Interests](../interests) section and from my [GitHub](https://github.com/danielgospodinow) profile.
 - ✍️ writing tech articles for my [blog](https://medium.com/@danielgospodinow).
@@ -29,6 +30,7 @@ Hey there! 👋
 - 🎮 playing video games.
 
 ⭐ I wish to
+
 - 🤵 become an outstanding developer, investor, entrepreneur, teacher, and an overall successful man. A man who people admire and love. A man who motivates others around him to also follow their goals and dreams.
 - 👧 have a healthy, smart, and ambitious daughter one day; 👩 and to again have a loyal, fun, supportive, and loving partner.
 - 🏢 experience working abroad in a big company like [Google](https://developers.google.com/), [Microsoft](https://www.microsoft.com/), [Apple](https://www.apple.com/), [Netflix](https://www.netflix.com/), [Tesla](https://www.tesla.com/), [IBM](https://www.ibm.com/), etc.
@@ -41,6 +43,7 @@ Hey there! 👋
 - 🌎 travel as much as possible around the whole globe.
 
 🔮 In the future, I plan to
+
 - 💼 finish my Master's degree with a product for a potential startup.
 - 👬 meet countless new smart and ambitious people.
 - 🌎 try living abroad for a while. Somewhere in Western Europe 🇨🇭 or in the USA 🇺🇸. I want to taste foreign cultures.

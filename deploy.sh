@@ -7,7 +7,7 @@ if [ -z "$1" ]; then
 fi
 
 function commitAndPush {
-    git add . && git commit -m $commitmsg && git push
+    git add . && git commit -m "$commitmsg" && git push
 }
 
 echo "Commiting and pushing changes in the source project"
