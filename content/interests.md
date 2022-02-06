@@ -23,7 +23,7 @@ Some projects that I'm proud of are ...
 
 #### Career
 
-Since I love automotive software, in 2018 I started my career as an intern software engineer at [Visteon](https://www.visteon.com/) but it ended up shortly after.
+Since I love automotive software, in 2018 I started my career as an intern software engineer at [Visteon](https://www.visteon.com/) but it ended up shortly after. It was not my thing.
 
 As mentioned, I also like computer graphics and IoT, so unsurprisingly enough, I also went for an internship at [Chaos Group](https://www.chaosgroup.com/). A world-famous company that provides state-of-the-art rendering solutions for architectural, VFX, film, media and entertainment, automotive design and other industries. I also had a short stay there.
 
