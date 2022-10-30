@@ -32,35 +32,35 @@ theme = "minimal"
 
 [[menu.icon]]
     url = "https://www.facebook.com/DanielGospodinow"
-    name = "facebook"
+    name = "fab fa-facebook"
     weight = 1
 
 [[menu.icon]]
     url = "https://www.instagram.com/danielgospodinow/"
-    name = "instagram"
+    name = "fab fa-instagram"
     weight = 2
 
 [[menu.icon]]
     url = "https://twitter.com/dgospodinow/"
-    name = "twitter"
+    name = "fab fa-twitter"
     weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/danielgospodinow/"
-    name = "linkedin"
+    name = "fab fa-linkedin"
     weight = 4
 
 [[menu.icon]]
     url = "https://github.com/danielgospodinow/"
-    name = "github"
+    name = "fab fa-github"
     weight = 5
 
 [[menu.icon]]
     url = "https://medium.com/@danielgospodinow"
-    name = "medium"
+    name = "fab fa-medium"
     weight = 6
 
 [[menu.icon]]
     url = "mailto:danielgospodinow@gmail.com"
-    name = "envelope-o"
+    name = "fas fa-envelope"
     weight = 7
