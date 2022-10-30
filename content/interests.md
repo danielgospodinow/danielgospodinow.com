@@ -9,19 +9,23 @@ weight = "3"
 
 &nbsp;
 
-## Coding 💻 (Under Construction)
+## Coding 💻
 
-#### How I Started (TODO)
+### How I Started
 
-I've been programming for a while now. I started programming in my early high school years. My first programming love sparks were born when I started writing World of Warcraft macros at the age of 15. After a couple of years, I found out to be simple Lua scripts. I was quite fascinated by this fact because that's when I realized that those macros were my first steps in the programming world.
+I've been programming for a while now - since my early high school years.
 
-#### What I Love (TODO)
+It all starter very simple. At the age of 15, I started writing World of Warcraft macros. After a couple of years, I found out that those same macros are actually simple Lua scripts. I was quite fascinated because that's when I realized that those macros were my first steps in the programming world.
 
-I love open-source software, game development, electronics and IoT, automotive software/firmware/hardware, AI, computer graphics, software system architecture, and many more topics. To be honest, I find quite a lot of topics interesting.
+Then, that same spark kept fueling my interest in coding during high school. I think I was a pretty good student in programming back then because of that.
+
+### What I Love (TODO)
+
+I love open-source software, game development, electronics and IoT, automotive software/firmware/hardware, AI, computer graphics, software system architecture, blockchain, and many more topics. To be honest, I find quite a lot of topics interesting.
 
 Some projects that I'm proud of are ...
 
-#### Career
+### Career
 
 Since I love automotive software, in 2018 I started my career as an intern software engineer at [Visteon](https://www.visteon.com/) but it ended up shortly after. It was not my thing.
 
@@ -29,9 +33,11 @@ As mentioned, I also like computer graphics and IoT, so unsurprisingly enough, I
 
 After a couple of months after my departure from Chaos Group, I successfully landed a position as a junior software engineer at [Bosch](https://bosch.io/). At this workplace, I've learned a lot, I really enjoyed working on the multiple projects that I took part in, and I loved my colleagues. I felt that Bosch gave me an environment in which I experienced a very rapid career progress. I felt that I'm important and this really motivated me to push my limits to deliver outstanding results in all fields that I took part in. Also, I managed to quickly establish an amazing visibility in the whole office due to my multiple attendances of company activities - public meetings, sample company projects, and more. I had an absolutely marvellous experience as an employee there.
 
-As of now, I work for [SAP](https://www.sap.com/), a world-known German multinational software corporation, a market leader in end-to-end enterprise application software, and a top cloud company with 200 million users worldwide. I'm part of a team that's working on a complex product which is a cloud-native, open-source project crucial for SAP and for the whole open-source community. The technology stack includes Go, GraphQL, Docker, Kubernetes, Istio, Kiali, Prometheus, Grafana, PostgreSQL, and many morе modern and open-source tools and technologies. I absolutely love my team - they're all young, motivated, and quite helpful. I've only dreamed for such a wonderful workplace.
+Then, a really nice opportunity came up for me. I went to work for [SAP](https://www.sap.com/), a world-known German multinational software corporation, a market leader in end-to-end enterprise application software. I was part of a team that was working on a complex, cloud-native, open-source project crucial for SAP's cloud platform. The technology stack included Go, GraphQL, Docker, Kubernetes, Istio, Kiali, Prometheus, Grafana, PostgreSQL, and many morе modern and open-source tools and technologies. I absolutely loved my team - they were all young, motivated, and quite helpful.
 
-#### Qbaware
+Fast forward two years later, I got an even better opportunity! A friend of mine introduced me to Confluent - the young, fresh, Silicon Valley-based company that's composed of one of the most skilled software engineers in the industry. One great thing about Confluent is that they are extensively involved in the development and use of Apache Kafka - the industry standard event streaming software. Confluent, in short, offers a proprietary Kafka SaaS solution and a whole ecosystem around it - ksqlDB, Schema Registry, etc. Fun fact, the company is founded by some of the engineers that were part of the development of Kafka in LinkedIn. So another great thing about Confluent is that they offered me a relocation to London! I can't describe with words the excitement that I felt when they invited me to be part of the company because I've always wished to relocate to the West for a while - and what better place for that than London, right? So here I am. I'm part of Confluent's core Kafka teams that develop features for the proprietary Confluent fork. We develop a product that enables Confluent's Kafka clusters to rebalance themselves whenever the brokers inside experience uneven load distribution. Up until now, I'm loving it!
+
+### Qbaware
 
 On the 4th of September 2020, I decided to make the first move in creating my own commecrial brand - [Qbaware](https://github.com/qbaware). There, I plan to develop both commercial and open-source projects.
 
@@ -45,15 +51,15 @@ The first project which I aim to deliver under my commercial brand is *Kola*. Th
 
 ## Education 🎓
 
-#### High School
+### High School
 
 I attended a high school in my hometown called Ivan Vazov. There, the disciplines I loved were Programming, Physics, and Maths because I imagined how all of them can be used to build a video game. Yes, I was really into game development back then. 
 
 During my high school education, I've attended a lot of IT academies, like Telerik and SoftUni, and IT competitions, like HSSIMI - High School Student Institute of Mathematics and Informatics and the National IT Olympiad, and I had excellent results on every single one of them. This I greatly owe to my beloved Informatics teacher - Mrs Doneva.
 
-#### University
+### University
 
-Later on, I continued my education in Sofia University with a Bachelor's degree in Computer Science. 
+Later on, I continued my education in Sofia University with a Bachelor's degree in Computer Science.
 
 Before Sofia University, I really considered studying abroad. I was even accepted in the University of Birmingham, UK 🇬🇧 with Computer Science, but I'm glad that my life went in a way that didn't let me go abroad. My university years turned out to be among my best.
 
@@ -65,7 +71,7 @@ After my Bachalor's, I went for a Master's degree in Entrepreneurship. I think t
 
 In the future, I'd love to go for another Master's degree or even a PhD in a foreign university. Currently, I'm considering some options like Sweden 🇸🇪, Switzerland 🇨🇭, and even the USA 🇺🇸.
 
-#### Teaching
+### Teaching
 
 During my fourth and last year at Sofia University, I really wanted to see what's like to be a teacher, so I signed up as a teaching assistant at my university for two subjects - Data Structures and Algorithms and Internet of Things. In short, I really liked it. You feel wonderful when you manage to blaze even a little spark in someone, when you get them passioned, when you get them excited. I also feel like I have the urge to continue Mrs Doneva's teaching practices, like a successor of hers. I'm sure she'd be happy about that.
 
@@ -77,7 +83,7 @@ Currently, I publish tech articles at my blog on Medium. I've also started my ow
 
 ## Training and Sports 🏊
 
-#### On a Daily Basis
+### On a Daily Basis
 
 At my best, I try to excercise atleast once on every two days.
 
@@ -85,7 +91,7 @@ Usually, I do street workouts and jogging.
 
 My favourite jogging place is park Maritsa in Dimitrovgrad - my hometown. It's a big park near the river Maritsa. I often take pauses to sit by the river and just relax and purge stress.
 
-#### On Rare Occasions
+### On Rare Occasions
 
 I adore swimming. For me, it's the ultimate stress relief activity. In the past, I've practiced swimming a couple of times every week. Unfortunately, as of now, I just go swimming when I have the time and opportunity to do so.
 
