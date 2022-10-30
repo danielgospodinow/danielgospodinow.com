@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Daniel Gospodinow"
-    profilePic = "https://i.imgur.com/MO54cDb.png"
+    profilePic = "https://i.imgur.com/weKc062.png"
     description = "I am [this](../me) and I like [that](../interests)."
     githubUsername = "danielgospodinow"
     accent = "#934A5F"
