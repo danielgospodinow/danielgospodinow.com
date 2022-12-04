@@ -15,7 +15,7 @@ weight = "3"
 
 I've been programming for a while now - since my early high school years.
 
-It all starter very simple. At the age of 15, I started writing World of Warcraft macros. After a couple of years, I found out that those same macros are actually simple Lua scripts. I was quite fascinated because that's when I realized that those macros were my first steps in the programming world.
+It all started very simple. At the age of 15, I started writing World of Warcraft macros. After a couple of years, I found out that those same macros are actually simple Lua scripts. I was quite fascinated because that's when I realized that those macros were my first steps in the programming world.
 
 Then, that same spark kept fueling my interest in coding during high school. I think I was a pretty good student in programming back then because of that.
 
