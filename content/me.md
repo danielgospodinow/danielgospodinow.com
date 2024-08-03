@@ -11,11 +11,11 @@ Hey there! 👋
 
 ## Who Am I?
 
-🏃 I'm Daniel Gospodinow, a twentyish male born in Dimitrovgrad, Bulgaria 🇧🇬 who's on his journey to get the best from life by employing his full potential of social and technical skills.
+🏃 I'm Daniel Gospodinow, a '97 male born in Dimitrovgrad, Bulgaria 🇧🇬 who's on his journey to get the best from life.
 
-🧑‍💻 Currently, I'm based in London, UK 🇬🇧 and I work as a full-time senior software engineer at [Confluent](https://www.confluent.io/).
+🧑‍💻 Currently, I'm based in London, UK 🇬🇧 and I work as a full-time software engineer at [Confluent](https://www.confluent.io/).
 
-👨‍🎓 Also, after my recent graduation as a Bachelor's in Computer Science, I'm now pursuing my Master's degree in Technology Entrepreneurship at [Sofia University](https://www.uni-sofia.bg/).
+👨‍🎓 I have a BSc degree in Computer Science and an MSc degree in Technological Entrepreneurship at [Sofia University](https://www.uni-sofia.bg/).
 
 ⏪ Former teaching assistant at [Sofia University](https://www.uni-sofia.bg/eng), former employee at [SAP](https://www.sap.com/), [Bosch.IO](https://bosch.io/), [Chaos Group](https://www.chaosgroup.com/), and [Visteon Corporation](https://www.visteon.com/), former high school IT competitor.
 
